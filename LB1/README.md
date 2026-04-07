@@ -6,7 +6,7 @@
 
 [<img width="410" height="261" alt="image" src="https://github.com/user-attachments/assets/a5027426-4941-4d95-a993-d51279b4684c" />]
 
-[<img width="305" height="429" alt="image" src="https://github.com/user-attachments/assets/86d88c40-86ce-472d-9f8a-d9e97dad5488" />]
+[<img width="180" height="295" alt="image" src="https://github.com/user-attachments/assets/be6537d6-5b7c-45c4-97b6-234229a070dd" />]
 
 Рисунок 1 - Оригинальное изображение
 
