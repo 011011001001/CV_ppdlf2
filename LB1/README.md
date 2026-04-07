@@ -93,11 +93,11 @@
 # 3. Прочие операции
 ## 3.1 Пороговая бинаризация для rgb и grayscale изображения
 
-[<img width="1081" height="394" alt="image" src="https://github.com/user-attachments/assets/03e57d08-ad69-4934-b171-b70a831caa22" />]
+[<img width="832" height="320" alt="image" src="https://github.com/user-attachments/assets/824056ea-c0fc-444e-861c-26e2521871fa" />]
 
 Рисунок 9 - Результат пороговой бинаризации
 
-[<img width="1095" height="400" alt="image" src="https://github.com/user-attachments/assets/201d8f70-259d-4ce3-ae35-8b0e51237f66" />]
+[<img width="826" height="319" alt="image" src="https://github.com/user-attachments/assets/bd3b9fcf-9d16-4a2f-8371-05503131cab5" />]
 
 Рисунок 10 - Результат пороговой бинаризации по каждому каналу RGB
 
