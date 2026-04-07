@@ -120,16 +120,17 @@
 
 Функция распределения показывает, какое количество пикселей имеет яркости из отрезка от нуля до X.
 
-[<img width="259" height="352" alt="image" src="https://github.com/user-attachments/assets/4ce4ed36-f7af-47b2-90ee-682ca04090e9" />]
-[<img width="259" height="350" alt="image" src="https://github.com/user-attachments/assets/bf43bc66-e0d9-40fb-b3c6-d380aa74cb41" />]
+[<img width="233" height="161" alt="image" src="https://github.com/user-attachments/assets/c84c6e06-2358-4ea3-942b-154eb4ce9788" />]
+[<img width="229" height="163" alt="image" src="https://github.com/user-attachments/assets/9239e683-0e15-4bc8-a67b-12f5a424a639" />]
 
 Рисунок 12 - Результат работы выравнивания гистограммы
 
-[<img width="700" height="387" alt="image" src="https://github.com/user-attachments/assets/bb5e419b-b289-412a-83db-b5298c3aa15d" />]
+[<img width="554" height="318" alt="image" src="https://github.com/user-attachments/assets/c4b6d618-313a-46c9-9db7-a4f790b49fb5" />]
 
 Рисунок 13 - Гистограммы изображений до и после выравнивания гистограмм
 
-[<img width="689" height="395" alt="image" src="https://github.com/user-attachments/assets/ebee01a9-fddb-45fe-a0b5-81bc4cf56981" />ъ
+[<img width="546" height="328" alt="image" src="https://github.com/user-attachments/assets/89df253a-f116-4781-87a3-d5c4085a4e95" />]
+
 
 Рисунок 14 - Кумулятивные функции до и после выравнивания гистограмм
 
@@ -138,6 +139,6 @@
 ## 3.3 Поворот изображений
 Операция поворота предназначена для изменения ориентации изображения на заданный угол (90°, 180°, 270°) относительно исходного положения. Поворот выполняется без интерполяции с сохранением точных значений пикселей.
 
-[<img width="1368" height="351" alt="image" src="https://github.com/user-attachments/assets/c1b38962-736a-4e3c-bb52-9eb2302512c9" />]
+[<img width="1100" height="287" alt="image" src="https://github.com/user-attachments/assets/1731c279-b71e-4da7-b423-1f532ff17d3d" />]
 
 Рисунок 15 - Повернутые изображения
