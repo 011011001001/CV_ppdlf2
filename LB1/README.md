@@ -65,11 +65,11 @@
 
 Алгоритм: 
 - перевод изображения в grayscale
-- пороговая бинаризация (T = 150)
+- пороговая бинаризация (T = 170)
 - создание структурирующего элемента (5x5)
 - эрозия готова
 
-[<img width="1339" height="372" alt="image" src="https://github.com/user-attachments/assets/2a9d3987-25f3-44dc-912b-c1792649de5a" />]
+[<img width="1062" height="301" alt="image" src="https://github.com/user-attachments/assets/2784bfd3-d3e3-4cde-be28-d4df94256698" />]
 
 Рисунок 6 - Результат применения эрозии
 
@@ -82,11 +82,11 @@
 
 Алгоритм: 
 - перевод изображения в grayscale
-- пороговая бинаризация (T = 150)
+- пороговая бинаризация (T = 170)
 - создание структурирующего элемента (7x7)
 - дилатация готова
 
-[<img width="1332" height="352" alt="image" src="https://github.com/user-attachments/assets/2acbd050-20a0-4868-a795-d69bba60617d" />]
+[<img width="1059" height="298" alt="image" src="https://github.com/user-attachments/assets/6673cae2-8f02-4547-9c9a-fb4f97783a41" />]
 
 Рисунок 8 - Результат применения дилатации
 
