@@ -52,13 +52,13 @@
 
 Бинаризация — это разделение пикселей по порогу яркости. Пиксели светлее заданного порога становятся белыми (1), а более темные — черными (0).
 
-[<img width="497" height="261" alt="image" src="https://github.com/user-attachments/assets/c5cd1e57-7555-40fb-a722-ad86340c0e21" />]
+[<img width="526" height="209" alt="image" src="https://github.com/user-attachments/assets/06fa655c-ac17-47fb-a71c-c49da94bfc04" />]
 
-Рисунок 4 - Бинарное изображение и структруный элемент
+Рисунок 4 - Принцип работы эрозии
 
-[<img width="300" height="272" alt="image" src="https://github.com/user-attachments/assets/b8f7e7c4-2570-480a-8df9-e60abb14b166" />]
+[<img width="224" height="81" alt="image" src="https://github.com/user-attachments/assets/cf1fcad3-b6b1-46e3-85ea-56d812466988" />]
 
-Рисунок 5 - Изображение после эрозии
+Рисунок 5 - Пример изображения после эрозии
 
 Алгоритм: 
 - перевод изображения в grayscale
@@ -73,7 +73,7 @@
 ## 2.2 Дилатация
 Эта функция работает как логическое «ИЛИ» (дизъюнкция). Если в окрестности есть хотя бы один пиксель со значением 1, выходной пиксель также становится 1. Такая операция помогает восстановить разорванные границы и пиксели внутри объектов, случайно утерянные при бинаризации.
 
-[<img width="328" height="273" alt="image" src="https://github.com/user-attachments/assets/f16d0f3a-e87d-40da-8571-8da72e08e5b7" />]
+[<img width="531" height="344" alt="image" src="https://github.com/user-attachments/assets/44d877aa-41ce-432c-a34b-5af0ecfb4ea2" />]
 
 Рисунок 7 - Изображение после дилатации
 
