@@ -54,7 +54,7 @@
 
 [<img width="247" height="217" alt="image" src="https://github.com/user-attachments/assets/7095cc3b-f062-4ac6-99f5-7be1472fe8a1" />]
 
-[<img width="1233" height="738" alt="image" src="https://github.com/user-attachments/assets/b5aad6dd-ffa2-4123-b084-525cb7c5ef62" />]
+[<img width="1246" height="761" alt="image" src="https://github.com/user-attachments/assets/c8e70ef2-ced6-47e3-8e5a-a644e99e6f29" />]
 
 Рисунок 2 - Результат детектирования ключевых точек
 
@@ -80,7 +80,7 @@ SIFT (Scale-Invariant Feature Transform) - это алгоритм для выд
 
 Если наилучшее совпадение значительно лучше второго (d1 значительно меньше d2, d1 должен быть меньше 0.75 × d2), то совпадение считается надежным. Порог 0.75 отсеивает неоднозначные сопоставления.
 
-[<img width="1108" height="544" alt="image" src="https://github.com/user-attachments/assets/6083357a-bb4f-4a21-999f-0bfb90314cf0" />]
+[<img width="1213" height="651" alt="image" src="https://github.com/user-attachments/assets/0241cb24-0ee7-42d8-b0d6-d3d65a01d7c8" />]
 
 Рисунок 3 - Результат сопостовления дискрипторов между 1 и 2 изображением
 
@@ -97,6 +97,6 @@ RANSAC (RANdom SAmple Consensus) - это итеративный метод оц
 
 Начальная точка для построения траектории принимается за (0, 0). Для каждой пары изображений к текущей позиции добавляется вычисленное смещение и получается последовательность точек, описывающих путь камеры.
 
-[<img width="873" height="822" alt="image" src="https://github.com/user-attachments/assets/a6da6a72-c66a-4c2b-8620-9a45747b5695" />]
+[<img width="2701" height="2674" alt="trajectory" src="https://github.com/user-attachments/assets/10eb9447-c660-4d1c-b9b2-3e568416fbd2" />]
 
 Рисунок 4 - Траектория движения камеры
