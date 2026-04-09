@@ -97,6 +97,6 @@ RANSAC (RANdom SAmple Consensus) - это итеративный метод оц
 
 Начальная точка для построения траектории принимается за (0, 0). Для каждой пары изображений к текущей позиции добавляется вычисленное смещение и получается последовательность точек, описывающих путь камеры.
 
-[<img width="2701" height="2674" alt="trajectory" src="https://github.com/user-attachments/assets/10eb9447-c660-4d1c-b9b2-3e568416fbd2" />]
+[<img width="2701" height="2674" alt="trajectory (1)" src="https://github.com/user-attachments/assets/b2b86a63-6cc5-4479-a089-fe24d31cdfa7" />]
 
 Рисунок 4 - Траектория движения камеры
