@@ -3,7 +3,7 @@
 
 ## 1. Загрузка и подготовка данных
 
-Для лабораторной работы я выбрал датасет(https://www.kaggle.com/datasets/mohamedaziz15/cars-brands-in-egypt) с фотографиями **автомобилей пяти марок**:
+Для лабораторной работы я выбрал датасет(https://www.kaggle.com/datasets/mohamedaziz15/cars-brands-in-egypt) с фотографиями **автомобилей** , оттуда я взял только 5, так как их там гораздо больше:
 
 - **BMW**  
 - **Chevrolet**  
